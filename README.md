@@ -5,7 +5,7 @@ The statemachine i created is for a car. A car many states and inputs. The progr
 My purpose in writing this software is to expand my skills in erlang. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1KSrykdLtHk)
 
 # Development Environment
 
